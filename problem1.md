@@ -69,7 +69,7 @@ It sucks not having at least one person who knows you and can vouch for you and 
 // wrapping up - hook and ask
 ---
 
-As I mentioned at the beginning, this isn’t a finished product, but we are building something that will make it easier to meet friends in a new city. The best way to describe the concept might be *“Tinder for friends”*
+As I mentioned at the beginning, this isn’t a finished product, but we are building something that will make it easier to meet friends in a new city. The best way to describe the concept might be *“Online dating for friends”*
 
 Based on the things we’ve discussed today, would you be willing to see the product when we have something ready?
 
